@@ -1,5 +1,7 @@
 [Original context...](https://us.battle.net/forums/en/wow/topic/20765996631?page=3)
+
 [Forked from...](https://github.com/Toludin/SpeakinSpell)
+
 
 # SpeakinSpell
 BfA / 8.0 update for SpeakinSpell
